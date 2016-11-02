@@ -11,6 +11,7 @@ header {
   width: 100%;
   padding: 1em 1em 0 1em;
   border: 0;
+  margin: 0;
 }
 header a {
   font-size: 1.2rem;
@@ -83,7 +84,6 @@ aside p {
   font-size: 16px;
 }
 aside a {
-  float: left;
   color: red;
   }
 aside h2 {
